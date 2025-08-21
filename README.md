@@ -34,10 +34,11 @@ My research lies at the intersection of **deep learning** and **remote sensing**
 
 ### 🏆 **Change3D: Revisiting Change Detection and Captioning from a Video Modeling Perspective**  
 **Duowang Zhu**, Xiaohu Huang, Haiyan Huang, Hao Zhou, Zhenfeng Shao  
-**CVPR 2025 (Highlight)**  
+**CVPR 2025 (Highlight, Top 3%)**  
 [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Change3D_Revisiting_Change_Detection_and_Captioning_from_A_Video_Modeling_CVPR_2025_paper.pdf) | [Code](https://github.com/zhuduowang/Change3D)  
 > *Proposes a unified video modeling framework for change detection and captioning in remote sensing.*
-
+(387/13008)
+<!-- (387/13008) -->
 ---
 
 ### **ChangeViT: Unleashing Plain Vision Transformers for Change Detection**  
