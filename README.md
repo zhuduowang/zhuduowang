@@ -30,7 +30,7 @@ My research lies at the intersection of **deep learning** and **remote sensing**
 
 ---
 
-## 📚 Selected Publications
+## 📚 Selected Works
 
 ### **Change3D: Revisiting Change Detection and Captioning from a Video Modeling Perspective**  
 **Duowang Zhu**, Xiaohu Huang, Haiyan Huang, Hao Zhou, Zhenfeng Shao  
