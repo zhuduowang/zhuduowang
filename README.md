@@ -42,7 +42,7 @@ My research lies at the intersection of **deep learning** and **remote sensing**
 
 ### **ChangeViT: Unleashing Plain Vision Transformers for Change Detection**  
 **Duowang Zhu**, Xiaohu Huang, Haiyan Huang, Zhenfeng Shao, Qimin Cheng  
-*arXiv 2024*  
+**PR 2025**  
 [Paper](https://arxiv.org/pdf/2406.12847) | [Code](https://github.com/zhuduowang/ChangeViT)  
 > *Explores the potential of plain ViT architectures for bi-temporal change detection without complex designs.*
 
