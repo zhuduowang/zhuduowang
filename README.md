@@ -3,20 +3,15 @@
 # Duowang Zhu | 朱多旺
 
 🎓 Ph.D. Candidate, [LIESMARS, Wuhan University](https://liesmars.whu.edu.cn/)  
-
-[![Google Scholar](https://pfst.cf2.poecdn.net/base/image/d2986037de5aea29da3b987770ed5270fb1de8dee5c5f2f91761857797c61f64?pmaid=448021937)](https://scholar.google.com/citations?user=9qk9xhoAAAAJ&hl=en)
-[![Email](https://pfst.cf2.poecdn.net/base/image/7f1ee7f345339ca8414c19b33e31bb489dbf5a8bdaf903773b7fd7e7d03abeea?pmaid=448021936)](mailto:zhuduowang@whu.edu.cn)
-
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hi, I'm **Duowang Zhu** (朱多旺), a Ph.D. candidate at **[LIESMARS, Wuhan University](https://liesmars.whu.edu.cn/)**.  
+Hi, I'm **Duowang Zhu** (朱多旺), a Ph.D. student at **[LIESMARS, Wuhan University](https://liesmars.whu.edu.cn/)**.  
 My research lies at the intersection of **deep learning** and **remote sensing**, with a focus on **generative models** and **spatiotemporal modeling** for Earth observation.
 
-- **Research Interests**: Generative foundation models • Time-series modeling • Change detection & captioning  
 - **Email**: [zhuduowang@whu.edu.cn](mailto:zhuduowang@whu.edu.cn)  
 - **Google Scholar**: [Profile](https://scholar.google.com/citations?user=9qk9xhoAAAAJ&hl=en)
 
@@ -40,10 +35,10 @@ My research lies at the intersection of **deep learning** and **remote sensing**
 
 ---
 
-### **ChangeViT: Unleashing Plain Vision Transformers for Change Detection**  
-**Duowang Zhu**, Xiaohu Huang, Haiyan Huang, Zhenfeng Shao, Qimin Cheng  
-**PR 2025**  
-[Paper](https://arxiv.org/pdf/2406.12847) | [Code](https://github.com/zhuduowang/ChangeViT)  
+### **ChangeViT: Unleashing Plain Vision Transformers for Change Detection in Remote Sensing Images**  
+**Duowang Zhu**, Xiaohu Huang, Haiyan Huang, Qimin Cheng, Zheng Huang, Zhenfeng Shao  
+**Pattern Recognition 2025**  
+[Paper](https://doi.org/10.1016/j.patcog.2025.112539) | [Code](https://github.com/zhuduowang/ChangeViT)  
 > *Explores the potential of plain ViT architectures for bi-temporal change detection without complex designs.*
 
 ---
