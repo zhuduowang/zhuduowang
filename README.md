@@ -53,7 +53,7 @@ Xiaohu Huang<sup>†</sup>, **Duowang Zhu**<sup>†</sup>, Hao Wang, Xinggang Wa
 
 ## 📝 Reviewer Service
 
-I have served as a reviewer for journals and conferences in computer vision, artificial intelligence, and remote sensing, including: TGRS, CVPR, ICCV, ECCV, NeurIPS, etc.
+I have served as a reviewer for journals and conferences in computer vision, artificial intelligence, and remote sensing, including: TGRS, TMM, CVPR, ICCV, ECCV, NeurIPS, etc.
 
 ---
 
